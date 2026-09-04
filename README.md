@@ -23,6 +23,7 @@ RedHat | AWS | AZURE | Terraform | Ansible | Containers
 ## 🔗 Activities (In progress)
 - Learning and deploying Infrastructure and Applications on Cloud environments 
 - Building a Shift Rota App for hackathon
-- Documenting my learning journey on LinkedIn
+- Documenting my learning journey on LinkedIn {{""www.linkedin.com/in/balaji-gv-04b50a97""}}
+- Uploading practical sessions on YouTube {{""https://youtube.com/@technologyfortruth?si=oee_2Y2x_bDC_zQ5""}}
 
 
